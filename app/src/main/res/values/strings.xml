@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="login">Login</string>
+    <string name="insert">Insert</string>
+
+    <string name="exit_app">Exit App</string>
+    <string name="log_out">Log Out</string>
+</resources>
