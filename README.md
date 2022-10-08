@@ -10,11 +10,11 @@ Com tarefas executando em segundo plano - no contexto em que for pertinente.
 
 # Tecnologias e bibliotecas utilizadas
 --------------------------------------------------------------------------
-Kotlin
-Android Studio
-Firebase Auth: Autenticação via Firebase
-Firestore: Base de dados via FireStore Cloud.
-Retrofit: Consumo API Rest
+## Kotlin
+## Android Studio
+## Firebase Auth: Autenticação via Firebase
+## Firestore: Base de dados via FireStore Cloud.
+## Retrofit: Consumo API Rest
 # -------------------------------------------------------------------------
 Testing mail and password
 test@gmail.com
