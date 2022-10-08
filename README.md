@@ -9,7 +9,7 @@ Com tarefas executando em segundo plano - no contexto em que for pertinente.
 #assessment de developpement kotlin
 
 # Tecnologias e bibliotecas utilizadas
---------------------------------------------------------------------------
+
 ## Kotlin
 ## Android Studio
 ## Firebase Auth: Autenticação via Firebase
