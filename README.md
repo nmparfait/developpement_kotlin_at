@@ -22,8 +22,6 @@ test@gmail.com
 123456
 
 <img width="431" alt="--1" src="https://user-images.githubusercontent.com/46882495/194715600-261ff4fa-c3ab-4f73-929f-9815fd413b46.png">
-![--2](https://user-images.githubusercontent.com/46882495/194715602-170e7bd6-c1eb-4667-8353-de7af88adede.png)
-![--3](https://user-images.githubusercontent.com/46882495/194715603-b6b31e57-e900-4576-9c1b-91b20245990f.png)
-![--4](https://user-images.githubusercontent.com/46882495/194715605-dd170f82-39da-4056-80c0-2fa0c6d0bad5.png)
-![--6](https://user-images.githubusercontent.com/46882495/194715607-96af1913-de93-42f6-bfcf-166a7fe34dc8.png)
-![--8](https://user-images.githubusercontent.com/46882495/194715609-a6385b01-0640-4b6d-a165-a149aa3d1835.png)
+<img width="431" alt="--1" src="https://user-images.githubusercontent.com/46882495/194715644-5b86fde8-6966-425d-8047-7c4e6c02ec84.png">
+
+
